@@ -1,2 +1,1 @@
-language="bash"
-run = "install_d"
+run = "export DOTNET_ROOT=/home/runner/dotnet && export PATH=$PATH:/home/runner/dotnet && dotnet build './AssignmentOne/Program.csproj' && mono './AssignmentOne/bin/Debug/net6.0/Program.dll'"

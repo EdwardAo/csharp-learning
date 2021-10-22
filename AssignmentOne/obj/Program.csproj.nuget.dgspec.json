@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\AssignmentOne\\Program.csproj": {}
+    "/home/runner/csharp-learning/AssignmentOne/Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\AssignmentOne\\Program.csproj": {
+    "/home/runner/csharp-learning/AssignmentOne/Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\AssignmentOne\\Program.csproj",
+        "projectUniqueName": "/home/runner/csharp-learning/AssignmentOne/Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\AssignmentOne\\Program.csproj",
-        "packagesPath": "C:\\Users\\edwar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\AssignmentOne\\obj\\",
+        "projectPath": "/home/runner/csharp-learning/AssignmentOne/Program.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/csharp-learning/AssignmentOne/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\edwar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/runner/dotnet/sdk/6.0.100-rc.2.21505.57/RuntimeIdentifierGraph.json"
         }
       }
     }
