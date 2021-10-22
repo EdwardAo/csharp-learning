@@ -1,0 +1,2 @@
+language = "csharp"
+run = "dotnet build 'Assignment #1/myapp.csproj'"
