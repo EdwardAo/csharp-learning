@@ -1,2 +1,1 @@
-language = "csharp"
-run = "csc './AssignmentOne/Program.cs'"
+run = "dotnet build './AssignmentOne/Program.csproj' && mono './AssignmentOne/bin/Debug/net6.0/Program.dll'"
