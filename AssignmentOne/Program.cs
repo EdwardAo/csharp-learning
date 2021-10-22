@@ -1,10 +1,12 @@
-namespace AssignmentOne;
-using System;
-
-class Program
+namespace AssignmentOne
 {
-    static void Main(string[] args)
+    using System;
+
+    class Program
     {
-        Console.WriteLine("Hello World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
     }
 }
