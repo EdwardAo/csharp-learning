@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\myapp\\myapp.csproj",
-      "projectName": "myapp",
-      "projectPath": "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\myapp\\myapp.csproj",
+      "projectUniqueName": "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\AssignmentOne\\Program.csproj",
+      "projectName": "Program",
+      "projectPath": "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\AssignmentOne\\Program.csproj",
       "packagesPath": "C:\\Users\\edwar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\myapp\\obj\\",
+      "outputPath": "C:\\Users\\edwar\\Documents\\Github\\csharp-learning\\AssignmentOne\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edwar\\AppData\\Roaming\\NuGet\\NuGet.Config"
