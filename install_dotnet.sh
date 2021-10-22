@@ -8,6 +8,6 @@ tar -zxf dotnet-sdk-6.0.100-rc.2.21505.57-linux-x64.tar.gz
 
 export DOTNET_ROOT=/home/runner/dotnet
 export PATH=$PATH:/home/runner/dotnet
-dotnet --version
+dotnet --diagnostics
 
 bash
